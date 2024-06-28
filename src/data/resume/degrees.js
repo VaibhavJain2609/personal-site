@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Sacramento State University',
+    degree: 'B.S. Computer Science',
+    link: 'https://csus.edu',
+    year: 2024,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
+    school: 'Foothill College',
+    degree: 'ADT in Computer Science',
     link: 'https://buffalo.edu',
-    year: 2012,
+    year: 2021,
+  },
+  {
+    school: 'Woodstock School',
+    degree: 'High School Diploma',
+    link: 'https://www.woodstockschool.in/',
+    year: 2019,
   },
 ];
 

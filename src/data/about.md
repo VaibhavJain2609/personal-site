@@ -1,6 +1,7 @@
 # Intro
 
-I am the VP of Engineering at Smile Identity, where I work on tools that have helped over 90 million people in Africa gain access to financial services. Before Smile, I was the co-founder & CTO of [Arthena](https://arthena.com) and a co-founder of [Matroid](https://matroid.com). In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I am Vaibhav Jain, a recent graduate from Sacramento State University, with a Bachelors in Computer Science, passionate about software engineering. My journey in this field has equipped me with extensive experience in developing and implementing projects using Java, Python, Java Spring Boot, and Angular. I've had the opportunity to lead and collaborate with cross-functional teams, notably at Sacramento State University, where I successfully modernized a legacy system by addressing requirement gaps and updating the tech stack. My involvement in hackathons and internships has further honed my skills and fueled my passion for innovation. With a solid foundation in both theoretical knowledge and practical application, I am eager to contribute to and grow in technical roles.
+
 
 # Some history
 
