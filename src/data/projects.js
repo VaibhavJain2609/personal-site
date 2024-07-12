@@ -1,26 +1,23 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
+    title: 'Savis3',
+    subtitle: 'September 2023 - May 2024',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    date: '2024-05-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Built for a staistics class in Mexico, '
+      + 'Savis3 is a web application that allows users to input data and '
+      + 'visualize different graphs and statistical measures.',
   },
   {
-    title: 'Harvest',
+    title: 'Wikipedia Search Engine',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    date: '2024-02-20',
+    desc: 'Build using Flask and SQLite, this search engine allows users to search '
+      + 'for articles on Wikipedia that are stored in a local database using the tf-IDF and page rank formulas. ',
   },
   {
     title: 'Space Potato',

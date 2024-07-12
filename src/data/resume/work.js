@@ -78,7 +78,7 @@ const work = [
       'Enhanced student security as measured by increased student attendance, by proposing and implementing a bio-metric check-in system in dormitories.',
       'Generated 20% increase in student counseling sessions by developing a PowerBi dashboard for the counseling department, enabling data-driven decision-making.',
       'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
-      'Researched and presenetd end-point management solutions to streamline deployment and reduce bandwidth comsumption',
+      'Researched and presenetd end-point management solutions to streamline OS deployment and reduce bandwidth comsumption',
       'Set up an emergency notification system for the school, which would allow the school to send out emergency notifications to the students, staffs, and parents in case of an emergency.',
     ],
   },

@@ -5,74 +5,63 @@ I am Vaibhav Jain, a recent graduate from Sacramento State University, with a Ba
 
 # Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- My parents put a computer in their bedroom in 2005 when I was 5. It ran on Windows XP and I can still remember how I would spend a lot of time playing minesweeper and fiddling with google earth.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- In 2006, I began first grade, after skipping kindergarden.
+- In 2009, my parents offered me a chance to go to a boarding school, and it was for me to decide if I was interested in attenging the school or not
+- In April, 2010, I gave the enterance exam for the School, recieving my acceptance in May.
+- In August, 2010, I began my education at [Woodstock School](https://woodstockschool.in), repeating grade 4 due to my age.
+- In grade 5, I was awarded a reward for having the highest grades in my Computer Classes
+- At 11, while in grade 5, I made my first application using scratch.
+- At 12, I joined the Tech Team in Junior School.
+- At 13, I began middle school and learning how to code in C/C++. 
+- At 13, I joined the Middle School tech team and worked with the leader to set up a TFTP server to allow remote OS Deployment.
+- 13 - 17, I played a lot of video games. My favorites included Counter-Strike, League of Legends, Halo, and Age of Empires III.
+- At 14, I began watching One Piece.
+- At 14, I worked on developing a solution to generate Energy while walking for science fair - it failed miserably
+- At 15, I worked with our IT department to introduce new rules for the WIFI throughout campus. I also assisted them with setting up the firewall rules.
+- At 16, I began working with the Head of High School to maintain the wordpress site used for internal announcements.
+- At 17, I began interning at the IT department, working on developing solutions for different departments and students.
+- At 17, as a senior, I joined the student council as the Head of Media.
+- At 18, I began interning at the Communication Department, having  developed and updated major school websites.
+- At 18, in May, 2019, I graduated High School
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter-Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-
-- At 18, in the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association), including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on Facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
-
-Ask me in person for other stories that I'm afraid to share with the internet.
+- At 19, In 2020, I began my studies in Foothill College, only to having to return to India due to covid 3 months later.
+- At 21, I returned to United States in 2022 to complete my education through Sacramento State university.
+- At 23, I recieved my Bachelors of Science in Computer Science
 
 # I like
 
-- Running
-- Skiing
-- Sailing and the sea
+- Basketball
+- Anime
+- Cricket
+- Travelling
 - Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- Winter
+- Books
+- [Food]((https://beliapp.co/app/sweetbubby))
+<!-- - [Books](https://www.goodreads.com/mdangelo) -->
+<!-- - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos)) -->
 
 # Travel / Geography
-
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
-
+- I am originally from Ghaziabad, India.
+- I've been to approximately 11 countries, many of which I would like to revisit.
+- In 2013, I travelled outside India for the first time, going to Thailand for a family vacation.
+- In mid 2013, I visited HongKong, Macau, and Thailand in that order.
+- Early 2014, I visied UAE.
+- In 2016, I went for a vacation to Europe, travelling between Netherlands, Brussels, France, Switzerlang, and Germany.
+- In 2017, My family bought a new house, near my previous house and began remodelling and furnishing, lasting almost a year.
+- In 2019, I traveled to USA to begin my education.
+- In 2022, I returned to USA to continue my education post COVID.
+- In 2022, I traveled to Phuket, Thailand.
+- In 2023, I visited Japan.
 # Fun facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a skateboard or [bicycle](https://www.citibikenyc.com/) every single day.
-- I stack-rank coffee shops, restaurants, and every dog I see in New York.
-- I added this page because many people complained that my site was just my resume.
+- I studied in an International school in India. The school was situated in the mountains, living there from when I was 9, until I graduated High School at age 18 in 2019.
+- I am an avid fan of Anime and Manga's, notably One Piece.
+- I love playing Wild Rift and League of Legends.
+- I first coded when I was 11.
+- I like cooking Indian and Italian food
 
 # I dream of
 
@@ -81,23 +70,5 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Treating every individual with genuine kindness and respect.
 - Staying curious.
 - Continually improving.
-- You not checking the commit history for earlier drafts of this file.
-
-# Websites from people I admire
-
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com)
-
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me and I'll add you.
+- Living long enough to see humans travelling to another habitable planet.
+- Decrease in global temperature through reduction of Carbon Emission. 
