@@ -40,6 +40,8 @@ I am Vaibhav Jain, a recent graduate from Sacramento State University, with a Ba
 - Winter
 - Books
 - [Food]((https://beliapp.co/app/sweetbubby))
+- Artificial Intelligence
+- Backend Development
 <!-- - [Books](https://www.goodreads.com/mdangelo) -->
 <!-- - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos)) -->
 

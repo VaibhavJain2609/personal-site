@@ -18,15 +18,13 @@ const work = [
     url: 'https://kksociety.com',
     startDate: '2023-05-29',
     endDate: '2023-08-22',
-    summary: `Kendriya Karamchari Sehkari Grih Nirman Samiti Ltd is a housing society situated in Noida, India. 
-    After having finally won a long battle against the Noida Authority in the Supreme Court, the society is finally in the
-    process of obtaining the land required for the members of the community to build their homes. As a web developer,
-    I was responsible for managing the society's website and ensuring that it is up-to-date and user-friendly. As the magerial authority
-    of the society are not tech-savvy, I was also responsible for training them on how to use the website. I was also responsible for
-    developing filters and search functionality for the website to make it easier for the management to find the information they need, 
-    rather having to spend hours on creating excel sheets for the required. I also managed the migration of the
-   website to a more cost-effective web hosting service. I also customized their existing database, wihch would allow 
-   them to store users' historical payment information, which would help the users to access their previous bills online.
+    summary: `
+Kendriya Karamchari Sehkari Grih Nirman Samiti Ltd, a housing society in Noida, India, is in the process of obtaining
+ land for its members after winning a Supreme Court battle against the Noida Authority. As a web developer, I managed
+  the society's website, ensuring it was up-to-date and user-friendly. I trained the management, who were not tech-savvy,
+   on using the site. Additionally, I developed filters and search functionality to streamline information retrieval,
+    eliminating the need for creating extensive Excel sheets. I also migrated the website to a more cost-effective hosting
+     service and customized the database to store users' historical payment information, enabling easy access to previous bills online.
     `,
     highlights: [
       'Managed end-to-end process of migrating existing website to a more cost-effective web hosting service, reducing annual expenditure by 40%.',
@@ -40,12 +38,11 @@ const work = [
     url: 'http://https://hoonartek.com/',
     startDate: '2022-06-15',
     endDate: '2022-08-23',
-    summary: `Hoonar Tekwurks is a Software Development company, headquartered in Pune, India. Hoonar Tekwurks works with 
-    clients to develop software solutions that help them achieve their business goals. As a Software Engineering Intern,
-    I was responsible for developing an authentication system for an internal project, using technologies like Java Spring Boot and keycloak.
-    I also developed a REST API for the same project, which would allow the front-end to interact with the back-end, enhacing the capabilities
-    through the help of keycloak. I also provided presentation of different technologies to the team, which helped them to understand the
-    technologies better and implement them in their upcoming projects.`,
+    summary: `Hoonar Tekwurks, a software development company based in Pune, India, collaborates with clients to create 
+    software solutions for their business goals. As a Software Engineering Intern, I developed an authentication system
+     for an internal project using Java Spring Boot and Keycloak. Additionally, I created a REST API to enable front-end
+      and back-end interaction, enhancing functionality with Keycloak.
+     I also presented various technologies to the team, aiding their understanding and implementation in future projects.`,
     highlights: [
       'Increased OWASP security to level 2 for an internal tool by developing an authentication API with Java Spring Boot and Keycloak.',
       'Delivered internal knowledge-sharing sessions on Log4J and debugging to a team of 8 engineers, successfully integrating logging into team’s coding standard.',
@@ -62,16 +59,14 @@ const work = [
     // We develop quantitative strategies to predict the value of fine art and build investment prod
     // I ran a 20-person product and engineering org for 8 years. We were acquired by
     // <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
-    summary: `Woodstock School is an international school situated in Mussoorie, India. I began my studies at Woodstock
-    in 2010 and graduated in 2019. As an intern in the Information Technology Department, I worked on a wide variety of projects for
-    different departments of the school. I worked extensively with the Microsoft Power Platform, developing PowerApps and Power Automate
-    solutions for departments such as the Maintenance Department, Counseling Department, and Security Department. As the Head of Media
-    in the Student Council, I was also responsible for managing the student requests for the IT Department, and ensuring that the requests
-    were appropriately addressed. I developed a system for the school's maintenance department, which would allow them to track the 
-    utilities billing for staff, and generate reports for the same. I also developed a system using PowerBi for the school's counseling department,
-    which would allow them to track the students' progress and provide them with the required support, and make data centric decisions in the future.
-    For the Security Department, I worked on implementing a biometric system to 3 major locations of our school campus, which allowed for
-    the department to track the entry and exit of the staff and students, and ensure the security of the campus.`,
+    summary: `Woodstock School, an international school in Mussoorie, India, was where I studied from 2010 to 2019. During my internship in the Information Technology Department, I
+     developed various solutions using the Microsoft Power Platform. I created PowerApps
+      and Power Automate solutions for the Maintenance, Counseling, and Security Departments. 
+      For the Maintenance Department, I developed a system to track utilities billing and generate reports.
+       In the Counseling Department, I implemented a PowerBI system to monitor student progress and support
+        data-driven decisions. For the Security Department, I introduced a biometric system at three key locations
+         on campus to track entry and exit, enhancing campus security. As Head of Media in the Student Council,
+          I also managed IT requests, ensuring they were addressed appropriately.`,
     highlights: [
       'Saved 50 hours of manual labour quarterly by developing an invoice management system through Microsoft PowerApps and SharePoint.',
       'Consolidated 7 manual steps to 1 automated process for student laptop-loaning by using Microsoft Power-Automate, saving 12 manual hours weekly.',
