@@ -3,7 +3,8 @@ const data = [
   {
     title: 'Savis3',
     subtitle: 'September 2023 - May 2024',
-    image: '/images/projects/nearestdollar.jpg',
+    image: '/images/projects/savis3.png',
+    link: 'http://savis.vaibhavjain.live/',
     date: '2024-05-20',
     desc:
       'Built for a staistics class in Mexico, '
@@ -12,33 +13,31 @@ const data = [
   },
   {
     title: 'Wikipedia Search Engine',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
+    image: '/images/projects/ask485.png',
     date: '2024-02-20',
     desc: 'Build using Flask and SQLite, this search engine allows users to search '
       + 'for articles on Wikipedia that are stored in a local database using the tf-IDF and page rank formulas. ',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Operating System Simulation',
+    subtitle: 'Simulations for Operating Systems scheduling algorithms',
+    link: 'https://github.com/VaibhavJain2609/OperatingSystemsSimulation',
+    image: '/images/projects/OSSim.png',
+    date: '2023-11-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Developed simulations to design gantt charts for various operating system scheduling algorithms '
+      + 'in java. The algorithms include FCFS, SJF, SRTF, and RR.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Chat4Teach',
+    subtitle: 'A chat application for teachers and students',
+    image: '/images/projects/chat4teach.png',
+    link: 'https://github.com/VaibhavJain2609/Chat4Teach',
+    date: '2022-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Designed a Communication platform for teachers and students to interact '
+      + 'using Spring Boot and Sql. The messaging functionality\'s security '
+      + 'is hidden messaging like snapchat.',
   },
 ];
 
